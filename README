@@ -1,6 +1,3 @@
-Here's a sample README file for your text search application:
-
-````markdown
 # Text Search Application
 
 A Python-based application that enables users to search through multiple text files using two different algorithms: Brute Force and Knuth-Morris-Pratt (KMP). The application provides features for case sensitivity and whole word matching.
@@ -31,14 +28,13 @@ Make sure you have Python installed on your machine. You can download it from [p
 git clone https://github.com/yourusername/TextSearchApplication.git
 cd TextSearchApplication
 ```
-````
 
 ### Install Required Libraries
 
 You can install the necessary libraries using pip:
 
 ```bash
-pip install pandas
+    pip install pandas
 ```
 
 ## Usage
@@ -47,7 +43,7 @@ pip install pandas
 2. Run the application:
 
 ```bash
-python Search_App.py
+    python Search_App.py
 ```
 
 3. Enter the search text in the provided input field.
@@ -64,9 +60,9 @@ python Search_App.py
 2. Navigate to the directory where the application is located.
 3. Run the command:
 
-   ```bash
-   python Search_App.py.py
-   ```
+```bash
+    python Search_App.py.py
+```
 
 ### On Linux
 
@@ -74,9 +70,9 @@ python Search_App.py
 2. Navigate to the directory where the application is located.
 3. Run the command:
 
-   ```bash
+```bash
    python Search_App.py.py
-   ```
+```
 
 ## License
 
@@ -95,8 +91,3 @@ For more code detail and working checkout the blog post [here](https://www.rafay
 - [Pandas](https://pandas.pydata.org/) for data manipulation.
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) for GUI development.
 - Algorithms for efficient string searching.
-
-```
-
-Feel free to customize any part of this README file to better match your project's specifics!
-```
